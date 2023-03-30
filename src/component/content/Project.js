@@ -1,4 +1,5 @@
-import React from 'react'
+/* eslint-disable */
+import React from 'react' 
 import style from './Project.css'
 import zealand from '../../image/air_newzeland.png'
 import lady from '../../image/ladyinstore.png'

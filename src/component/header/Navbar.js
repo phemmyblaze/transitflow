@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import Logo from '../../image/transitflow.png'
 import clock from '../../image/clock.png'

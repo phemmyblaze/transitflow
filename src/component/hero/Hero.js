@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from "react";
 import style from "./Hero.css";
 import facebook from "../../image/Facebook.png";

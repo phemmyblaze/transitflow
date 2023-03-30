@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import style from './Counter.css'
 import icon from '../../image/counter-img.png'

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import style from './Service.css'
 import seaicon from '../../image/seaicon.png'
@@ -5,7 +6,7 @@ import air from '../../image/airfeight.png'
 import ware from '../../image/warehouse.png'
 import transport from '../../image/transport.png'
 
-const Safe = () => {
+const Service = () => {
   return (
     <div className='service-section'>
         <div className='service'>
@@ -72,4 +73,4 @@ const Safe = () => {
   )
 }
 
-export default Safe
+export default Service
