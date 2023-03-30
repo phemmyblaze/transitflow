@@ -4,6 +4,7 @@ import Hero from "./component/hero/Hero";
 import Service from "./component/content/Service";
 import Project from "./component/content/Project";
 import Counter from "./component/content/Counter";
+import Works from "./component/content/Works";
 
 function App() {
   return <div className="">
@@ -12,6 +13,7 @@ function App() {
     <Service />
     <Project />
     <Counter />
+    <Works />
   </div>;
   // return <div className="content"> 
   //   <Navbar/>
