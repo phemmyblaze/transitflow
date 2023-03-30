@@ -1,0 +1,107 @@
+.hero {
+    background-image: url(../../image/transit-hero.png);
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: cover;
+    height: 100vh;
+    top: 160px;
+    border-radius: 0px;
+
+    
+}
+
+.contain {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(9, 18, 66, 0.25);
+}
+.social-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 4rem;
+    
+}
+
+.nav-link, .social-links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: .9rem;
+}
+
+.nav-link li, .social-links li {
+    list-style: none;
+}
+
+.nav-link a, .social-links a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.hero-btn {
+    background-color: #fff;
+    padding: 1rem;
+}
+
+.hero-btn a {
+    text-decoration: none;
+    color: #23212A;
+}
+
+.hero-section {
+    display: flex;
+    margin-left: 17rem;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+.small-heading {
+    width: 12rem;
+    border-left: .2rem solid rgb(179, 163, 76);
+    background-color: rgba(4, 28, 55, 0.5);
+    padding: .3rem;
+}
+
+.small-heading h6 {
+    font-size: .6rem;
+    margin-left: .3rem;
+}
+
+.large-heading {
+    width: 25rem;
+    margin-top: .5rem;
+}
+
+.large-heading h1 {
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 3.5rem;
+    letter-spacing: .1rem;
+}
+
+.med-heading {
+    width: 30rem;
+    margin-top: 1rem;
+}
+
+.med-heading p {
+    font-size: 1.6rem;
+    line-height: 2rem;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.hero-sec-btn {
+    background: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 58.66%, #FFD7A6 116.84%);
+    width: 10rem;
+    padding: 1rem 2rem; 
+}
+
+.hero-sec-btn a {
+    text-decoration: none;
+    color: #23212A;
+    font-size: .8rem;
+    font-weight: 600;
+}
