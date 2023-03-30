@@ -27,12 +27,12 @@ const Project = () => {
                         </div>
 
                         <div className='project-type'>
-                            <img src={delivery} />
+                            <img src={delivery} alt="icon"/>
 
                             <h3>Delivery on Time</h3>
                         </div>
                         <div className='project-type'>
-                            <img src={money} />
+                            <img src={money} alt="icon"/>
 
                             <h3>Optimized Travel Cost</h3>
                         </div>
@@ -40,10 +40,10 @@ const Project = () => {
                     </div>
                     <div className='project-img'>
                         <div className='zealand'>
-                            <img src={zealand} />
+                            <img src={zealand} alt="icon"/>
                         </div>
                         <div className='lady'>
-                            <img src={lady} />
+                            <img src={lady} alt="icon"/>
                         </div>
                         
                         

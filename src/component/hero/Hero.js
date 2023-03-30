@@ -33,16 +33,16 @@ const Hero = () => {
             <div className="social-link">
                 <ul className="social-links">
                 <li>
-                    <img src={facebook} alt="Logo" />{" "}
+                    <img src={facebook} alt="Logo" />
                 </li>
                 <li>
-                    <img src={insta} alt="Logo" />{" "}
+                    <img src={insta} alt="Logo" />
                 </li>
                 <li>
-                    <img src={twitter} alt="Logo" />{" "}
+                    <img src={twitter} alt="Logo" />
                 </li>
                 <li>
-                    <img src={linkedin} alt="Logo" />{" "}
+                    <img src={linkedin} alt="Logo" />
                 </li>
                 </ul>
 

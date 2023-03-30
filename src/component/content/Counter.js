@@ -11,18 +11,18 @@ const Counter = () => {
             <div className='counter1'>
                 <h4>1294</h4>
 
-                <img src={icon}/>
+                <img src={icon} alt="icon"/>
 
                 <p>Delivered Packages</p>
 
             </div>
             <div className='kry'>
-                <img src={line}/>
+                <img src={line} alt="icon"/>
             </div>
             <div className='counter1 counter2'>
                 <h4>3594</h4>
 
-                <img src={icon}/>
+                <img src={icon} alt="icon"/>
 
                 <p>Satisfied Clients</p>
 
