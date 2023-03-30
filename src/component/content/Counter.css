@@ -1,0 +1,39 @@
+.counter {
+    /* background-color: red; */
+    margin-top: 20rem;
+    padding: 10rem;
+    color: #1C1F35;
+    
+}
+
+.counter-details {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid rgba(212, 212, 212, 1);
+    border-bottom: 1px solid rgba(212, 212, 212, 1);
+    padding: 0rem;
+    gap: 2rem;
+}
+
+.counter1 {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+.counter1 h4 {
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 59px;
+}
+.counter1 img {
+    height: 17px;
+}
+
+.counter1 p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+
+    color: #1C1F35;
+}

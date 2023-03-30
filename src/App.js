@@ -3,6 +3,7 @@ import Navbar from "./component/header/Navbar";
 import Hero from "./component/hero/Hero";
 import Service from "./component/content/Service";
 import Project from "./component/content/Project";
+import Counter from "./component/content/Counter";
 
 function App() {
   return <div className="">
@@ -10,6 +11,7 @@ function App() {
     <Hero />
     <Service />
     <Project />
+    <Counter />
   </div>;
   // return <div className="content"> 
   //   <Navbar/>
