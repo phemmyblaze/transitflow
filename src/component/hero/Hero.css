@@ -52,7 +52,7 @@
 
 .hero-section {
     display: flex;
-    margin-left: 17rem;
+    margin-left: 9rem;
     align-items: center;
     margin-top: 4rem;
 }
@@ -70,7 +70,7 @@
 }
 
 .large-heading {
-    width: 25rem;
+    width: 27rem;
     margin-top: .5rem;
 }
 
@@ -82,7 +82,7 @@
 }
 
 .med-heading {
-    width: 30rem;
+    width: 33rem;
     margin-top: 1rem;
 }
 
@@ -97,6 +97,7 @@
     background: linear-gradient(94.06deg, #FFB629 -1.21%, #FFDA56 58.66%, #FFD7A6 116.84%);
     width: 10rem;
     padding: 1rem 2rem; 
+    margin-top: 2rem;
 }
 
 .hero-sec-btn a {
