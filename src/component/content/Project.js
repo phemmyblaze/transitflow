@@ -43,7 +43,7 @@ const Project = () => {
                             <img src={zealand} alt="icon"/>
                         </div>
                         <div className='lady'>
-                            <img src={lady} alt="icon"/>
+                            <img src={lady} alt="lady"/>
                         </div>
                         
                         
