@@ -1,3 +1,8 @@
+## Problem faced
+1. React didn't complie the issue was related to webpack
+2. React didn't work properly had to install it multiple times
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
