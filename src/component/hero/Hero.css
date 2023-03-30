@@ -15,6 +15,8 @@
     justify-content: space-around;
     align-items: center;
     background-color: rgba(9, 18, 66, 0.25);
+    font-family: 'Rubik';
+    font-weight: 400;
 }
 .social-link {
     display: flex;
@@ -40,6 +42,11 @@
     color: #fff;
 }
 
+.nav-link a:hover {
+    text-decoration: underline;
+}
+
+
 .hero-btn {
     background-color: #fff;
     padding: 1rem;
@@ -52,9 +59,9 @@
 
 .hero-section {
     display: flex;
-    margin-left: 9rem;
+    margin-left: 19rem;
     align-items: center;
-    margin-top: 4rem;
+    margin-top: 15rem;
 }
 
 .small-heading {
@@ -65,6 +72,9 @@
 }
 
 .small-heading h6 {
+    font-family: 'Rubik';
+    font-weight: 400;
+    font-style: normal;
     font-size: .6rem;
     margin-left: .3rem;
 }
@@ -75,6 +85,8 @@
 }
 
 .large-heading h1 {
+    font-family: 'Rubik';
+    font-style: normal;
     font-weight: 700;
     font-size: 3rem;
     line-height: 3.5rem;
@@ -88,6 +100,7 @@
 
 .med-heading p {
     font-size: 1.6rem;
+    font-family: 'Krub';
     line-height: 2rem;
     font-weight: 500;
     font-style: normal;
@@ -105,4 +118,5 @@
     color: #23212A;
     font-size: .8rem;
     font-weight: 600;
+    font-family: 'Krub';
 }

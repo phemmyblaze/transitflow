@@ -21,7 +21,7 @@
 
 .project {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     gap: 10rem; 
 }
 
@@ -41,6 +41,7 @@
     font-weight: 400;
     font-size: 14px;
     line-height: 17px;
+    font-family: 'Rubik';
 }
 
 .title {
@@ -52,6 +53,7 @@
     font-weight: 600;
     font-size: 35px;
     line-height: 41px;
+    font-family: 'Rubik';
 }
 
 .desc {
@@ -64,6 +66,7 @@
     font-size: 16px;
     line-height: 1.2rem;
     color: #666C89;
+    font-family: 'Krub';
 }
 
 .zealand img {
@@ -82,7 +85,13 @@
     align-items: center;
     gap: 1rem;
 }
-
+.project-type h3 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+}
 .project-type:last-child {
     margin-top: 1rem;
 }
