@@ -16,6 +16,7 @@ const Navbar = () => {
                     <img src={Logo} alt="Logo"/>
                 </div>
 
+                <div className='nav-items'>
                 <div className='nav-details'>
                     <div className='clock'>
                         <img src={clock} alt="Logo"/>
@@ -46,6 +47,8 @@ const Navbar = () => {
                         </div>
                     </div>
                 </div>
+                </div>
+             
             </div>
         </div>
     </div>

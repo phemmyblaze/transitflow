@@ -17,7 +17,7 @@ const Project = () => {
                             <h6>Why Us</h6>
                         </div>
                         
-                        <div className='title'>
+                        <div className='titles'>
                             <h2>We provide full range global logistics solution</h2>
                         </div>
                         

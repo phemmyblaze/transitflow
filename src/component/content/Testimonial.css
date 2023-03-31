@@ -1,0 +1,175 @@
+.testimonial-details {
+    color: #1c1f35;
+    padding: 4rem;
+}
+
+.testimonial-heading {
+    margin: 5rem 9rem;
+}
+
+.sub-title {
+    border-left: 2px solid rgba(255, 182, 41, 1);
+    background-color: rgba(232, 232, 232, 0.5);
+    width: 97px;
+}
+
+.sub-title h6 {
+    font-family: 'Rubik';
+    font-size: 14px;
+    font-weight: 400;
+    margin-left: .4rem;
+}
+
+.title {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-gap: 71.5rem;
+}
+
+.title h1 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 41px;
+
+    color: #1C1F35;
+    width: 404px;
+    text-transform: capitalize;
+
+}
+
+.title-arr {
+    display: flex;
+    gap: .4rem;
+    height: 44px;
+}
+
+.arr {
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10rem;
+    padding: 1rem;
+    color: #1c1f35;
+}
+
+.arr2 {
+    background-color: #091242;
+    color: #fff;
+}
+
+.testimonial-profile {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    margin-top: .9rem;
+    /* column-gap: 30rem; */
+}
+
+.testimonial-desc {
+    background-color: #F4F4F4;
+    padding: 5rem;
+}
+
+.desc2 {
+    background-color: #091242;
+    
+}
+
+.customer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cust h4{
+    color: #fff;
+}
+
+.customer-info {
+    display: flex;
+    align-items: center;
+    gap: .4rem;
+}
+
+.customer-info img {
+    height: 4rem;
+    border-radius: 10rem;
+}
+
+.customer-details h4 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #091242;
+}
+.cust-details h4 {
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #fff;
+}
+
+.customer-details h6 {
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #091242;
+}
+.cust-details h6 {
+    font-family: 'Krub';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    color: #fff;
+}
+
+.quote {
+    background: gold;
+    /* width: 7.3rem; */
+    display: flex;
+    align-items: center;
+    border-radius: 10rem;
+    padding: 1rem;
+    color: #091242;
+    margin-right: 6rem;
+}
+
+.customer-text {
+    margin-top: 2rem;
+    width: 456px;
+}
+.cust-text {
+    margin-top: 2rem;
+    width: 456px;
+}
+
+.customer-text p {
+    font-family: 'Krub';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #666c89;
+}
+.cust-text p {
+    font-family: 'Krub';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #fff;
+}
+
+.rate {
+    display: flex;
+    margin-top: 1rem;
+}
+
+
+
+
+

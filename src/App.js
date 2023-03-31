@@ -5,6 +5,7 @@ import Service from "./component/content/Service";
 import Project from "./component/content/Project";
 import Counter from "./component/content/Counter";
 import Works from "./component/content/Works";
+import Testimonial from "./component/content/Testimonial";
 
 function App() {
   return <div className="">
@@ -14,6 +15,7 @@ function App() {
     <Project />
     <Counter />
     <Works />
+    <Testimonial />
   </div>;
   // return <div className="content"> 
   //   <Navbar/>
